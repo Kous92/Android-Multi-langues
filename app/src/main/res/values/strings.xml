@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Test multi-langue</string>
+    <string name="actual_language">Langue actuelle: Français (FR)</string>
+    <string name="welcome_message">Bienvenue dans mon application Android.</string>
+    <string name="button_show">Afficher le message</string>
+    <string name="button_hide">Masquer le message</string>
+    <string name="message">Ça marche !</string>
+    <string name="thanks">Merci !</string>
+    <string name="mission_completed_message">Mission accomplie pour les traductions.</string>
+</resources>

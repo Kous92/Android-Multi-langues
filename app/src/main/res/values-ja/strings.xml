@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">多言語テスト</string>
+    <string name="actual_language">実際の言語：日本語（JP)</string>
+    <string name="welcome_message">Android アプリへようこそ。</string>
+    <string name="button_show">メッセージを表示する</string>
+    <string name="button_hide">メッセージを隠す</string>
+    <string name="message">動作します！</string>
+    <string name="thanks">ありがとう！</string>
+    <string name="mission_completed_message">翻訳のミッションが完了しました。</string>
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Çoklu dil testi</string>
+    <string name="actual_language">Mevcut Dil: Türkçe (TR)</string>
+    <string name="welcome_message">Android uygulamamıza hoş geldiniz.</string>
+    <string name="button_show">Mesajı görüntüle</string>
+    <string name="button_hide">Mesajı gizle</string>
+    <string name="message">Çalışıyor !</string>
+    <string name="thanks">Teşekkürler !</string>
+    <string name="mission_completed_message">Görevler çeviriler için yapıldı.</string>
+</resources>

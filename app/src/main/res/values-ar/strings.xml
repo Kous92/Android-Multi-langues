@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">اختبار متعدد اللغات</string>
+    <string name="actual_language">اللغة الحالية: العربية (AR)</string>
+    <string name="welcome_message">مرحبًا بك في تطبيق Android.</string>
+    <string name="button_show">عرض الرسالة</string>
+    <string name="button_hide">إخفاءالرسالة</string>
+    <string name="message">إنها تعمل !</string>
+    <string name="thanks">شكرا لك !</string>
+    <string name="mission_completed_message">المهمة المنجزة للترجمات.</string>
+</resources>

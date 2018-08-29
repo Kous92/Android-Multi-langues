@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Test multilingue</string>
+    <string name="actual_language">Lingua corrente: Italiano (IT)</string>
+    <string name="welcome_message">Benvenuti nella mia applicazione Android.</string>
+    <string name="button_show">Mostra messaggio</string>
+    <string name="button_hide">Nascondi il messaggio</string>
+    <string name="message">Funziona !</string>
+    <string name="thanks">Grazzi !</string>
+    <string name="mission_completed_message">Missione compiuta per le traduzioni.</string>
+</resources>
